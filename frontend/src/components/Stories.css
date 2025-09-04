@@ -1,0 +1,15 @@
+/* src/pages/Stories.css */
+#success-stories {
+  background: #fef6f9;
+  border-radius: 20px;
+  padding: 40px 20px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.05);
+}
+
+.carousel-inner img {
+  transition: transform 0.5s ease;
+}
+
+.carousel-inner img:hover {
+  transform: scale(1.03);
+}
